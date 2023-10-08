@@ -20,3 +20,17 @@ body {
   color: rgb(var(--foreground-rgb));
   background:white;
 }
+input[type="text"] {
+  color: black;
+}
+.table-auto th,
+.table-auto td {
+  color: black;
+}
+.table tr:first-child {
+  background-color: #6fe6b7; 
+}
+
+.table tr:last-child {
+  background-color: #6fe6b7; 
+}
