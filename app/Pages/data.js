@@ -1,4 +1,4 @@
-export const hoursOfOperation = [
+export const timeSlots = [
     '6:00 AM',
     '7:00 AM',
     '8:00 AM',
@@ -11,6 +11,4 @@ export const hoursOfOperation = [
     '3:00 PM',
     '4:00 PM',
     '5:00 PM',
-    '6:00 PM',
-    '7:00 PM'
   ];
